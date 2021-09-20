@@ -29,7 +29,7 @@ if (isset($_FILES['file_field'])) {
         echo 'uploaded';
     }
 } else {
-    echo 'please uploaded';
+    echo 'image not uploaded';
 }
 
 
